@@ -69,3 +69,5 @@ git clone https://github.com/ayshajindal123/Madhav-Ecommerce-Sales-Dashboard.git
 -Refresh data connections if necessary (Home → Transform Data → Data Source Settings → Edit Permissions).
 -Explore the visuals and filters to analyze performance metrics.
 
+**📝 Conclusion**
+The Madhav E-Commerce Sales Dashboard provides actionable insights into sales, profit, and customer behavior. It enables data-driven decision-making and highlights key growth areas through interactive Power BI reports.
